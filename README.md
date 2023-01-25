@@ -9,4 +9,4 @@
 - 🔭 I’m currently working on GO, Python, Javascript, React.JS
 
 
-![Dioan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanbhusal&show_icons=true)
+![Dipan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipanbhusal&show_icons=true&count_private=true)
